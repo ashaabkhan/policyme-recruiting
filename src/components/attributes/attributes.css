@@ -1,0 +1,13 @@
+.attributeContainer {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+}
+
+.attributeName {
+    margin: 0 10px 0 0;
+}
+
+.attributeValue {
+    margin-right: 5px;
+}
